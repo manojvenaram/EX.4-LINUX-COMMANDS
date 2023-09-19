@@ -32,6 +32,19 @@ Output:
 Changes the current working directory to the specified directory.
 
 ```
+
+### Command 3: pwd - Print Working Directory
+```
+Syntax:
+pwd
+
+Code:
+pwd
+
+Output:
+Displays the current working directory, showing the full path.
+
+```
 ### Command 4: mkdir - Create Directory
 ```
 Syntax:
@@ -44,17 +57,14 @@ Output:
 Creates a new directory with the specified name.
 
 ```
-### Command 3: pwd - Print Working Directory
+### Command 5: touch - Create Empty File
 ```
 Syntax:
-pwd
-
+touch [filename]
 Code:
-pwd
-
+touch newfile.txt
 Output:
-Displays the current working directory, showing the full path.
-
+Creates an empty file with the given name.
 ```
 ### Command 6: cp - Copy Files and Directories
 ```
