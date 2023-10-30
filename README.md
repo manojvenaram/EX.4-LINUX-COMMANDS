@@ -300,11 +300,5 @@ wget https://example.com/file.zip
 Output:
 Downloads "file.zip" from the specified URL.
 ```
-
-### Output
-![](1.png)
-![](2.png)
-![](3.png)
-![](4.png)
 ### Result
 This implies that you have acquired a foundational understanding of UNIX commands and have successfully carried out their execution.
